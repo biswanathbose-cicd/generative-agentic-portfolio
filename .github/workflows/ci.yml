@@ -1,0 +1,17 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - name: Unit tests (each project)
+        run: |
+          for d in 01-agentic-support-assistant 02-eval-framework 03-demand-forecasting 04-conversation-data-pipeline; do
+            echo "== $d"; (cd $d && python -m unittest discover -s tests -v)
+          done
+      - name: Re-run the evaluation study (deterministic) and make sure it completes
+        run: cd 02-eval-framework && python run_eval.py > /dev/null

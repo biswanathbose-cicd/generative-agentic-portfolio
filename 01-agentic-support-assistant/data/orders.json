@@ -1,0 +1,5698 @@
+[
+ {
+  "order_id": "WM-10001",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0110",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0119",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0100",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "UPS",
+  "tracking_number": "TRK7493598146"
+ },
+ {
+  "order_id": "WM-10002",
+  "status": "delivered",
+  "order_date": "2026-08-06",
+  "items": [
+   {
+    "sku": "SKU-0039",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0019",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-08",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10003",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0084",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0095",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "USPS",
+  "tracking_number": "TRK3269380278"
+ },
+ {
+  "order_id": "WM-10004",
+  "status": "delivered",
+  "order_date": "2026-08-19",
+  "items": [
+   {
+    "sku": "SKU-0113",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-21",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10005",
+  "status": "delivered",
+  "order_date": "2026-09-12",
+  "items": [
+   {
+    "sku": "SKU-0076",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0108",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-16",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10006",
+  "status": "delivered",
+  "order_date": "2026-09-21",
+  "items": [
+   {
+    "sku": "SKU-0011",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0059",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0084",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-25",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10007",
+  "status": "returned",
+  "order_date": "2026-09-25",
+  "items": [
+   {
+    "sku": "SKU-0066",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-27",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10008",
+  "status": "returned",
+  "order_date": "2026-09-08",
+  "items": [
+   {
+    "sku": "SKU-0052",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-13",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10009",
+  "status": "delivered",
+  "order_date": "2026-08-12",
+  "items": [
+   {
+    "sku": "SKU-0001",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0028",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0027",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-17",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10010",
+  "status": "delivered",
+  "order_date": "2026-09-21",
+  "items": [
+   {
+    "sku": "SKU-0081",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0026",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0100",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-25",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10011",
+  "status": "delivered",
+  "order_date": "2026-09-11",
+  "items": [
+   {
+    "sku": "SKU-0098",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0119",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-13",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10012",
+  "status": "delivered",
+  "order_date": "2026-08-22",
+  "items": [
+   {
+    "sku": "SKU-0103",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0063",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-25",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10013",
+  "status": "shipped",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0094",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "USPS",
+  "tracking_number": "TRK2648201399"
+ },
+ {
+  "order_id": "WM-10014",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0001",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "FedEx",
+  "tracking_number": "TRK1084313279"
+ },
+ {
+  "order_id": "WM-10015",
+  "status": "shipped",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0083",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0074",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0013",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "FedEx",
+  "tracking_number": "TRK7916328276"
+ },
+ {
+  "order_id": "WM-10016",
+  "status": "delivered",
+  "order_date": "2026-09-13",
+  "items": [
+   {
+    "sku": "SKU-0010",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10017",
+  "status": "delivered",
+  "order_date": "2026-09-03",
+  "items": [
+   {
+    "sku": "SKU-0077",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-09",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10018",
+  "status": "delivered",
+  "order_date": "2026-08-17",
+  "items": [
+   {
+    "sku": "SKU-0062",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0107",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0074",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-20",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10019",
+  "status": "delivered",
+  "order_date": "2026-08-22",
+  "items": [
+   {
+    "sku": "SKU-0032",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0093",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0025",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-25",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10020",
+  "status": "delivered",
+  "order_date": "2026-09-20",
+  "items": [
+   {
+    "sku": "SKU-0078",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0011",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-22",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10021",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0031",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0095",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "FedEx",
+  "tracking_number": "TRK7856770577"
+ },
+ {
+  "order_id": "WM-10022",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0119",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "UPS",
+  "tracking_number": "TRK6275922107"
+ },
+ {
+  "order_id": "WM-10023",
+  "status": "delivered",
+  "order_date": "2026-08-10",
+  "items": [
+   {
+    "sku": "SKU-0118",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-12",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10024",
+  "status": "delivered",
+  "order_date": "2026-09-15",
+  "items": [
+   {
+    "sku": "SKU-0058",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0032",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10025",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0017",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0012",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0047",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "USPS",
+  "tracking_number": "TRK5371822290"
+ },
+ {
+  "order_id": "WM-10026",
+  "status": "cancelled",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0005",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0003",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10027",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0094",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "UPS",
+  "tracking_number": "TRK5292208344"
+ },
+ {
+  "order_id": "WM-10028",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0048",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0095",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0006",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK2511115941"
+ },
+ {
+  "order_id": "WM-10029",
+  "status": "delivered",
+  "order_date": "2026-09-26",
+  "items": [
+   {
+    "sku": "SKU-0102",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0004",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-10-02",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10030",
+  "status": "delivered",
+  "order_date": "2026-09-21",
+  "items": [
+   {
+    "sku": "SKU-0075",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0002",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-23",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10031",
+  "status": "delivered",
+  "order_date": "2026-09-02",
+  "items": [
+   {
+    "sku": "SKU-0113",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0054",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-08",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10032",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0108",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0070",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "UPS",
+  "tracking_number": "TRK5671774411"
+ },
+ {
+  "order_id": "WM-10033",
+  "status": "delivered",
+  "order_date": "2026-09-10",
+  "items": [
+   {
+    "sku": "SKU-0015",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0064",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0100",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-12",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10034",
+  "status": "delivered",
+  "order_date": "2026-09-14",
+  "items": [
+   {
+    "sku": "SKU-0087",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-20",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10035",
+  "status": "returned",
+  "order_date": "2026-09-11",
+  "items": [
+   {
+    "sku": "SKU-0085",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0120",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-15",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10036",
+  "status": "cancelled",
+  "order_date": "2026-09-27",
+  "items": [
+   {
+    "sku": "SKU-0026",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0082",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10037",
+  "status": "delivered",
+  "order_date": "2026-09-13",
+  "items": [
+   {
+    "sku": "SKU-0075",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-16",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10038",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0108",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0115",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "FedEx",
+  "tracking_number": "TRK4529851630"
+ },
+ {
+  "order_id": "WM-10039",
+  "status": "shipped",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0036",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0119",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "USPS",
+  "tracking_number": "TRK7528244275"
+ },
+ {
+  "order_id": "WM-10040",
+  "status": "returned",
+  "order_date": "2026-09-24",
+  "items": [
+   {
+    "sku": "SKU-0058",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0042",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0010",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-28",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10041",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0084",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0102",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-19",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10042",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0004",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "UPS",
+  "tracking_number": "TRK4422433165"
+ },
+ {
+  "order_id": "WM-10043",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0081",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "USPS",
+  "tracking_number": "TRK8762659102"
+ },
+ {
+  "order_id": "WM-10044",
+  "status": "cancelled",
+  "order_date": "2026-09-25",
+  "items": [
+   {
+    "sku": "SKU-0026",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10045",
+  "status": "delivered",
+  "order_date": "2026-09-15",
+  "items": [
+   {
+    "sku": "SKU-0002",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0097",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0061",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-18",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10046",
+  "status": "returned",
+  "order_date": "2026-08-18",
+  "items": [
+   {
+    "sku": "SKU-0070",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0090",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-21",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10047",
+  "status": "cancelled",
+  "order_date": "2026-09-21",
+  "items": [
+   {
+    "sku": "SKU-0012",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10048",
+  "status": "delivered",
+  "order_date": "2026-09-02",
+  "items": [
+   {
+    "sku": "SKU-0059",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0026",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-08",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10049",
+  "status": "processing",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0102",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0105",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0044",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10050",
+  "status": "delivered",
+  "order_date": "2026-09-13",
+  "items": [
+   {
+    "sku": "SKU-0111",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0105",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0103",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-16",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10051",
+  "status": "delivered",
+  "order_date": "2026-08-12",
+  "items": [
+   {
+    "sku": "SKU-0069",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0102",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-14",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10052",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0005",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "USPS",
+  "tracking_number": "TRK6477186221"
+ },
+ {
+  "order_id": "WM-10053",
+  "status": "delivered",
+  "order_date": "2026-09-15",
+  "items": [
+   {
+    "sku": "SKU-0055",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-21",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10054",
+  "status": "cancelled",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0061",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10055",
+  "status": "returned",
+  "order_date": "2026-08-13",
+  "items": [
+   {
+    "sku": "SKU-0108",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0087",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0089",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-15",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10056",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0072",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0038",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0107",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "USPS",
+  "tracking_number": "TRK6396683916"
+ },
+ {
+  "order_id": "WM-10057",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0039",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10058",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0074",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0064",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "UPS",
+  "tracking_number": "TRK3161116338"
+ },
+ {
+  "order_id": "WM-10059",
+  "status": "delivered",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0006",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0067",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0118",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-24",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10060",
+  "status": "cancelled",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0009",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10061",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0035",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0032",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "FedEx",
+  "tracking_number": "TRK2362426551"
+ },
+ {
+  "order_id": "WM-10062",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0004",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0119",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "UPS",
+  "tracking_number": "TRK1667992228"
+ },
+ {
+  "order_id": "WM-10063",
+  "status": "cancelled",
+  "order_date": "2026-09-14",
+  "items": [
+   {
+    "sku": "SKU-0042",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0093",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10064",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0064",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "UPS",
+  "tracking_number": "TRK7972990819"
+ },
+ {
+  "order_id": "WM-10065",
+  "status": "cancelled",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0113",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0056",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0003",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10066",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0069",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10067",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0028",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0068",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0109",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK6072936180"
+ },
+ {
+  "order_id": "WM-10068",
+  "status": "delivered",
+  "order_date": "2026-09-20",
+  "items": [
+   {
+    "sku": "SKU-0100",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-23",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10069",
+  "status": "delivered",
+  "order_date": "2026-08-23",
+  "items": [
+   {
+    "sku": "SKU-0012",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0050",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-26",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10070",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0088",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0103",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0003",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "FedEx",
+  "tracking_number": "TRK9454120258"
+ },
+ {
+  "order_id": "WM-10071",
+  "status": "returned",
+  "order_date": "2026-08-06",
+  "items": [
+   {
+    "sku": "SKU-0082",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0098",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0044",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-08",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10072",
+  "status": "delivered",
+  "order_date": "2026-08-18",
+  "items": [
+   {
+    "sku": "SKU-0005",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-24",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10073",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0025",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "UPS",
+  "tracking_number": "TRK3890246053"
+ },
+ {
+  "order_id": "WM-10074",
+  "status": "delivered",
+  "order_date": "2026-08-28",
+  "items": [
+   {
+    "sku": "SKU-0060",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0010",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0098",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-02",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10075",
+  "status": "delivered",
+  "order_date": "2026-08-17",
+  "items": [
+   {
+    "sku": "SKU-0027",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0077",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-19",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10076",
+  "status": "delivered",
+  "order_date": "2026-09-01",
+  "items": [
+   {
+    "sku": "SKU-0059",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0047",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-04",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10077",
+  "status": "delivered",
+  "order_date": "2026-09-06",
+  "items": [
+   {
+    "sku": "SKU-0066",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-08",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10078",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0073",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0077",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10079",
+  "status": "delivered",
+  "order_date": "2026-08-10",
+  "items": [
+   {
+    "sku": "SKU-0036",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0117",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-13",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10080",
+  "status": "delivered",
+  "order_date": "2026-08-08",
+  "items": [
+   {
+    "sku": "SKU-0113",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0069",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-13",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10081",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0093",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "FedEx",
+  "tracking_number": "TRK6590713442"
+ },
+ {
+  "order_id": "WM-10082",
+  "status": "delivered",
+  "order_date": "2026-09-12",
+  "items": [
+   {
+    "sku": "SKU-0082",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0116",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-16",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10083",
+  "status": "delivered",
+  "order_date": "2026-09-15",
+  "items": [
+   {
+    "sku": "SKU-0028",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0085",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-21",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10084",
+  "status": "delivered",
+  "order_date": "2026-08-21",
+  "items": [
+   {
+    "sku": "SKU-0064",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0083",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0028",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-23",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10085",
+  "status": "processing",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0095",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10086",
+  "status": "shipped",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0065",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0007",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK5717802915"
+ },
+ {
+  "order_id": "WM-10087",
+  "status": "delivered",
+  "order_date": "2026-08-24",
+  "items": [
+   {
+    "sku": "SKU-0071",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0070",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-30",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10088",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0104",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0083",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10089",
+  "status": "cancelled",
+  "order_date": "2026-09-21",
+  "items": [
+   {
+    "sku": "SKU-0050",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10090",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0110",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "USPS",
+  "tracking_number": "TRK3562215347"
+ },
+ {
+  "order_id": "WM-10091",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0037",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0068",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK7573052312"
+ },
+ {
+  "order_id": "WM-10092",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0072",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0119",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10093",
+  "status": "returned",
+  "order_date": "2026-09-24",
+  "items": [
+   {
+    "sku": "SKU-0004",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0002",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-27",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10094",
+  "status": "returned",
+  "order_date": "2026-09-23",
+  "items": [
+   {
+    "sku": "SKU-0050",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0007",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0115",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-29",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10095",
+  "status": "delivered",
+  "order_date": "2026-08-30",
+  "items": [
+   {
+    "sku": "SKU-0103",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-04",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10096",
+  "status": "returned",
+  "order_date": "2026-09-20",
+  "items": [
+   {
+    "sku": "SKU-0006",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-25",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10097",
+  "status": "delivered",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0091",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0015",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0007",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-22",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10098",
+  "status": "delivered",
+  "order_date": "2026-08-31",
+  "items": [
+   {
+    "sku": "SKU-0020",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0016",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0047",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-05",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10099",
+  "status": "delivered",
+  "order_date": "2026-08-05",
+  "items": [
+   {
+    "sku": "SKU-0075",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0088",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0054",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-08",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10100",
+  "status": "returned",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0031",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-25",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10101",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0109",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0046",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0036",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "USPS",
+  "tracking_number": "TRK2028369939"
+ },
+ {
+  "order_id": "WM-10102",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0118",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0026",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0113",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "UPS",
+  "tracking_number": "TRK6458643372"
+ },
+ {
+  "order_id": "WM-10103",
+  "status": "delivered",
+  "order_date": "2026-08-09",
+  "items": [
+   {
+    "sku": "SKU-0005",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0014",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0029",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-11",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10104",
+  "status": "delivered",
+  "order_date": "2026-09-13",
+  "items": [
+   {
+    "sku": "SKU-0031",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0081",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0048",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-17",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10105",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0018",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0108",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0112",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK7203387198"
+ },
+ {
+  "order_id": "WM-10106",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0048",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-22",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10107",
+  "status": "delivered",
+  "order_date": "2026-09-03",
+  "items": [
+   {
+    "sku": "SKU-0098",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0096",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0106",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-09",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10108",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0011",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0070",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "USPS",
+  "tracking_number": "TRK8238424028"
+ },
+ {
+  "order_id": "WM-10109",
+  "status": "returned",
+  "order_date": "2026-09-13",
+  "items": [
+   {
+    "sku": "SKU-0010",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10110",
+  "status": "cancelled",
+  "order_date": "2026-09-24",
+  "items": [
+   {
+    "sku": "SKU-0064",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0093",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10111",
+  "status": "delivered",
+  "order_date": "2026-08-11",
+  "items": [
+   {
+    "sku": "SKU-0046",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-15",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10112",
+  "status": "delivered",
+  "order_date": "2026-08-14",
+  "items": [
+   {
+    "sku": "SKU-0091",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0057",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-18",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10113",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0059",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0041",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "USPS",
+  "tracking_number": "TRK2066462799"
+ },
+ {
+  "order_id": "WM-10114",
+  "status": "delivered",
+  "order_date": "2026-09-01",
+  "items": [
+   {
+    "sku": "SKU-0047",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-07",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10115",
+  "status": "delivered",
+  "order_date": "2026-08-20",
+  "items": [
+   {
+    "sku": "SKU-0073",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0048",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0103",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-26",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10116",
+  "status": "delivered",
+  "order_date": "2026-09-08",
+  "items": [
+   {
+    "sku": "SKU-0098",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-10",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10117",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0070",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK5150725370"
+ },
+ {
+  "order_id": "WM-10118",
+  "status": "delivered",
+  "order_date": "2026-09-21",
+  "items": [
+   {
+    "sku": "SKU-0070",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0040",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0101",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-25",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10119",
+  "status": "delivered",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0011",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0004",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10120",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0032",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0092",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10121",
+  "status": "delivered",
+  "order_date": "2026-08-14",
+  "items": [
+   {
+    "sku": "SKU-0051",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0045",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-17",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10122",
+  "status": "shipped",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0104",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0093",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0010",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "USPS",
+  "tracking_number": "TRK9694506980"
+ },
+ {
+  "order_id": "WM-10123",
+  "status": "returned",
+  "order_date": "2026-08-31",
+  "items": [
+   {
+    "sku": "SKU-0103",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-05",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10124",
+  "status": "delivered",
+  "order_date": "2026-09-13",
+  "items": [
+   {
+    "sku": "SKU-0021",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0082",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0049",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-18",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10125",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0036",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0114",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "USPS",
+  "tracking_number": "TRK5788084141"
+ },
+ {
+  "order_id": "WM-10126",
+  "status": "returned",
+  "order_date": "2026-08-09",
+  "items": [
+   {
+    "sku": "SKU-0117",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-14",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10127",
+  "status": "processing",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0117",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0103",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10128",
+  "status": "delivered",
+  "order_date": "2026-08-20",
+  "items": [
+   {
+    "sku": "SKU-0046",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-23",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10129",
+  "status": "returned",
+  "order_date": "2026-09-15",
+  "items": [
+   {
+    "sku": "SKU-0077",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0066",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10130",
+  "status": "delivered",
+  "order_date": "2026-09-10",
+  "items": [
+   {
+    "sku": "SKU-0081",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0071",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-15",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10131",
+  "status": "delivered",
+  "order_date": "2026-09-23",
+  "items": [
+   {
+    "sku": "SKU-0071",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0099",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0012",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-26",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10132",
+  "status": "delivered",
+  "order_date": "2026-09-11",
+  "items": [
+   {
+    "sku": "SKU-0102",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0067",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0100",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-13",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10133",
+  "status": "delivered",
+  "order_date": "2026-08-19",
+  "items": [
+   {
+    "sku": "SKU-0102",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0032",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-22",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10134",
+  "status": "delivered",
+  "order_date": "2026-08-17",
+  "items": [
+   {
+    "sku": "SKU-0019",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-23",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10135",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0007",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0020",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0074",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK5648986376"
+ },
+ {
+  "order_id": "WM-10136",
+  "status": "processing",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0068",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0013",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0114",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10137",
+  "status": "returned",
+  "order_date": "2026-08-31",
+  "items": [
+   {
+    "sku": "SKU-0070",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0110",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0065",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-03",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10138",
+  "status": "delivered",
+  "order_date": "2026-08-24",
+  "items": [
+   {
+    "sku": "SKU-0027",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0005",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-29",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10139",
+  "status": "delivered",
+  "order_date": "2026-09-07",
+  "items": [
+   {
+    "sku": "SKU-0040",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0052",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-12",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10140",
+  "status": "returned",
+  "order_date": "2026-08-14",
+  "items": [
+   {
+    "sku": "SKU-0047",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-17",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10141",
+  "status": "cancelled",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0087",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0060",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10142",
+  "status": "delivered",
+  "order_date": "2026-09-08",
+  "items": [
+   {
+    "sku": "SKU-0092",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0091",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-14",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10143",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0110",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "USPS",
+  "tracking_number": "TRK5948369358"
+ },
+ {
+  "order_id": "WM-10144",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0039",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0044",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0097",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK1810277127"
+ },
+ {
+  "order_id": "WM-10145",
+  "status": "returned",
+  "order_date": "2026-09-09",
+  "items": [
+   {
+    "sku": "SKU-0043",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-15",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10146",
+  "status": "returned",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0043",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0058",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0106",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-23",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10147",
+  "status": "delivered",
+  "order_date": "2026-09-24",
+  "items": [
+   {
+    "sku": "SKU-0081",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0091",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0023",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-29",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10148",
+  "status": "returned",
+  "order_date": "2026-09-24",
+  "items": [
+   {
+    "sku": "SKU-0013",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-27",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10149",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0099",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0010",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "UPS",
+  "tracking_number": "TRK3779907038"
+ },
+ {
+  "order_id": "WM-10150",
+  "status": "cancelled",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0062",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0043",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10151",
+  "status": "returned",
+  "order_date": "2026-08-15",
+  "items": [
+   {
+    "sku": "SKU-0079",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0090",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-21",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10152",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0043",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0025",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-21",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10153",
+  "status": "processing",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0027",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0066",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10154",
+  "status": "processing",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0021",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0033",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0099",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10155",
+  "status": "delivered",
+  "order_date": "2026-08-24",
+  "items": [
+   {
+    "sku": "SKU-0065",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0066",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0019",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-27",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10156",
+  "status": "delivered",
+  "order_date": "2026-08-27",
+  "items": [
+   {
+    "sku": "SKU-0085",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0026",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0100",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-02",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10157",
+  "status": "cancelled",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0043",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0012",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10158",
+  "status": "delivered",
+  "order_date": "2026-08-23",
+  "items": [
+   {
+    "sku": "SKU-0094",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0018",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-29",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10159",
+  "status": "delivered",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0118",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0022",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10160",
+  "status": "delivered",
+  "order_date": "2026-09-15",
+  "items": [
+   {
+    "sku": "SKU-0115",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0047",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0031",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-21",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10161",
+  "status": "delivered",
+  "order_date": "2026-09-18",
+  "items": [
+   {
+    "sku": "SKU-0005",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0052",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-22",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10162",
+  "status": "returned",
+  "order_date": "2026-09-16",
+  "items": [
+   {
+    "sku": "SKU-0079",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0076",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10163",
+  "status": "shipped",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0019",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "UPS",
+  "tracking_number": "TRK7741025838"
+ },
+ {
+  "order_id": "WM-10164",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0017",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0032",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-18",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10165",
+  "status": "cancelled",
+  "order_date": "2026-09-14",
+  "items": [
+   {
+    "sku": "SKU-0052",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10166",
+  "status": "delivered",
+  "order_date": "2026-08-21",
+  "items": [
+   {
+    "sku": "SKU-0045",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0053",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-26",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10167",
+  "status": "shipped",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0108",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0116",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK3430808375"
+ },
+ {
+  "order_id": "WM-10168",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0056",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0054",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0116",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "USPS",
+  "tracking_number": "TRK8686133250"
+ },
+ {
+  "order_id": "WM-10169",
+  "status": "delivered",
+  "order_date": "2026-09-11",
+  "items": [
+   {
+    "sku": "SKU-0109",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-17",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10170",
+  "status": "delivered",
+  "order_date": "2026-08-23",
+  "items": [
+   {
+    "sku": "SKU-0089",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0014",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-27",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10171",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0113",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "USPS",
+  "tracking_number": "TRK7640691869"
+ },
+ {
+  "order_id": "WM-10172",
+  "status": "delivered",
+  "order_date": "2026-08-24",
+  "items": [
+   {
+    "sku": "SKU-0096",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0054",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0073",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-27",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10173",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0059",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0001",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0038",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK1738789554"
+ },
+ {
+  "order_id": "WM-10174",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0051",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0019",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0046",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "FedEx",
+  "tracking_number": "TRK5428676864"
+ },
+ {
+  "order_id": "WM-10175",
+  "status": "delivered",
+  "order_date": "2026-09-14",
+  "items": [
+   {
+    "sku": "SKU-0064",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0019",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-18",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10176",
+  "status": "delivered",
+  "order_date": "2026-08-27",
+  "items": [
+   {
+    "sku": "SKU-0041",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-29",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10177",
+  "status": "processing",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0072",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0026",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0069",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10178",
+  "status": "processing",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0040",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10179",
+  "status": "delivered",
+  "order_date": "2026-08-13",
+  "items": [
+   {
+    "sku": "SKU-0092",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0113",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-18",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10180",
+  "status": "delivered",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0029",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-22",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10181",
+  "status": "delivered",
+  "order_date": "2026-08-06",
+  "items": [
+   {
+    "sku": "SKU-0031",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0065",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0086",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-12",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10182",
+  "status": "processing",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0030",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0039",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0115",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10183",
+  "status": "delivered",
+  "order_date": "2026-09-22",
+  "items": [
+   {
+    "sku": "SKU-0086",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0012",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0060",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-28",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10184",
+  "status": "delivered",
+  "order_date": "2026-09-21",
+  "items": [
+   {
+    "sku": "SKU-0076",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0037",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0069",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-24",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10185",
+  "status": "returned",
+  "order_date": "2026-09-09",
+  "items": [
+   {
+    "sku": "SKU-0032",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-15",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10186",
+  "status": "delivered",
+  "order_date": "2026-08-18",
+  "items": [
+   {
+    "sku": "SKU-0115",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-23",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10187",
+  "status": "delivered",
+  "order_date": "2026-09-23",
+  "items": [
+   {
+    "sku": "SKU-0119",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-26",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10188",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0117",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0047",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0042",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10189",
+  "status": "delivered",
+  "order_date": "2026-08-23",
+  "items": [
+   {
+    "sku": "SKU-0106",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0109",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0082",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-26",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10190",
+  "status": "returned",
+  "order_date": "2026-08-30",
+  "items": [
+   {
+    "sku": "SKU-0015",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-02",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10191",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0099",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0033",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0101",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK3337144954"
+ },
+ {
+  "order_id": "WM-10192",
+  "status": "delivered",
+  "order_date": "2026-08-12",
+  "items": [
+   {
+    "sku": "SKU-0026",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-14",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10193",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0042",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "UPS",
+  "tracking_number": "TRK7908683977"
+ },
+ {
+  "order_id": "WM-10194",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0093",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK1628058736"
+ },
+ {
+  "order_id": "WM-10195",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0090",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "USPS",
+  "tracking_number": "TRK7823392046"
+ },
+ {
+  "order_id": "WM-10196",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0022",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0049",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0033",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10197",
+  "status": "processing",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0101",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0059",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0008",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10198",
+  "status": "cancelled",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0091",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10199",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0018",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0019",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0096",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "UPS",
+  "tracking_number": "TRK6328420059"
+ },
+ {
+  "order_id": "WM-10200",
+  "status": "delivered",
+  "order_date": "2026-09-22",
+  "items": [
+   {
+    "sku": "SKU-0072",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0039",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-24",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10201",
+  "status": "returned",
+  "order_date": "2026-09-11",
+  "items": [
+   {
+    "sku": "SKU-0079",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0030",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0038",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-16",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10202",
+  "status": "delivered",
+  "order_date": "2026-09-05",
+  "items": [
+   {
+    "sku": "SKU-0047",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-11",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10203",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0052",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-18",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10204",
+  "status": "delivered",
+  "order_date": "2026-09-01",
+  "items": [
+   {
+    "sku": "SKU-0089",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0117",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0111",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-04",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10205",
+  "status": "delivered",
+  "order_date": "2026-09-04",
+  "items": [
+   {
+    "sku": "SKU-0028",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-07",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10206",
+  "status": "processing",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0062",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10207",
+  "status": "delivered",
+  "order_date": "2026-08-17",
+  "items": [
+   {
+    "sku": "SKU-0060",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0098",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0040",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-20",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10208",
+  "status": "delivered",
+  "order_date": "2026-09-03",
+  "items": [
+   {
+    "sku": "SKU-0050",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0054",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0010",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-07",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10209",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0024",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0095",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-19",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10210",
+  "status": "delivered",
+  "order_date": "2026-09-18",
+  "items": [
+   {
+    "sku": "SKU-0008",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0020",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-21",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10211",
+  "status": "delivered",
+  "order_date": "2026-08-29",
+  "items": [
+   {
+    "sku": "SKU-0042",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-31",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10212",
+  "status": "delivered",
+  "order_date": "2026-09-23",
+  "items": [
+   {
+    "sku": "SKU-0099",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0113",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-27",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10213",
+  "status": "processing",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0063",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10214",
+  "status": "delivered",
+  "order_date": "2026-08-30",
+  "items": [
+   {
+    "sku": "SKU-0077",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0017",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0005",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-04",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10215",
+  "status": "cancelled",
+  "order_date": "2026-09-16",
+  "items": [
+   {
+    "sku": "SKU-0067",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10216",
+  "status": "delivered",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0093",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0058",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-20",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10217",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0058",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0052",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0018",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK6549416143"
+ },
+ {
+  "order_id": "WM-10218",
+  "status": "processing",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0018",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10219",
+  "status": "returned",
+  "order_date": "2026-08-15",
+  "items": [
+   {
+    "sku": "SKU-0062",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0073",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0002",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-17",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10220",
+  "status": "processing",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0046",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0086",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0016",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10221",
+  "status": "delivered",
+  "order_date": "2026-08-26",
+  "items": [
+   {
+    "sku": "SKU-0016",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0051",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-31",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10222",
+  "status": "delivered",
+  "order_date": "2026-09-01",
+  "items": [
+   {
+    "sku": "SKU-0091",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0036",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-04",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10223",
+  "status": "returned",
+  "order_date": "2026-08-12",
+  "items": [
+   {
+    "sku": "SKU-0045",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-15",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10224",
+  "status": "delivered",
+  "order_date": "2026-09-10",
+  "items": [
+   {
+    "sku": "SKU-0044",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0117",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0055",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-16",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10225",
+  "status": "cancelled",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0116",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10226",
+  "status": "delivered",
+  "order_date": "2026-09-09",
+  "items": [
+   {
+    "sku": "SKU-0117",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-11",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10227",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0039",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0061",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0093",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK6785693308"
+ },
+ {
+  "order_id": "WM-10228",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0034",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0105",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10229",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0079",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0044",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "USPS",
+  "tracking_number": "TRK5047498643"
+ },
+ {
+  "order_id": "WM-10230",
+  "status": "processing",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0080",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10231",
+  "status": "processing",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0009",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0036",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10232",
+  "status": "delivered",
+  "order_date": "2026-08-25",
+  "items": [
+   {
+    "sku": "SKU-0005",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0103",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-29",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10233",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0061",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0003",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "FedEx",
+  "tracking_number": "TRK6276350284"
+ },
+ {
+  "order_id": "WM-10234",
+  "status": "delivered",
+  "order_date": "2026-08-22",
+  "items": [
+   {
+    "sku": "SKU-0001",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0119",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0070",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-27",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10235",
+  "status": "returned",
+  "order_date": "2026-09-10",
+  "items": [
+   {
+    "sku": "SKU-0011",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0080",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0106",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-14",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10236",
+  "status": "delivered",
+  "order_date": "2026-09-01",
+  "items": [
+   {
+    "sku": "SKU-0104",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0092",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-04",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10237",
+  "status": "delivered",
+  "order_date": "2026-08-13",
+  "items": [
+   {
+    "sku": "SKU-0043",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-18",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10238",
+  "status": "delivered",
+  "order_date": "2026-08-15",
+  "items": [
+   {
+    "sku": "SKU-0054",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0037",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-21",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10239",
+  "status": "delivered",
+  "order_date": "2026-08-10",
+  "items": [
+   {
+    "sku": "SKU-0032",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0047",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0042",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-13",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10240",
+  "status": "delivered",
+  "order_date": "2026-09-07",
+  "items": [
+   {
+    "sku": "SKU-0114",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-09",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10241",
+  "status": "shipped",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0062",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0006",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0021",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK6385441261"
+ },
+ {
+  "order_id": "WM-10242",
+  "status": "delivered",
+  "order_date": "2026-09-15",
+  "items": [
+   {
+    "sku": "SKU-0082",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0033",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0048",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10243",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0073",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10244",
+  "status": "returned",
+  "order_date": "2026-09-09",
+  "items": [
+   {
+    "sku": "SKU-0080",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-12",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10245",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0080",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0086",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-19",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10246",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0089",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0102",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0119",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK8154445413"
+ },
+ {
+  "order_id": "WM-10247",
+  "status": "cancelled",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0007",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10248",
+  "status": "delivered",
+  "order_date": "2026-08-11",
+  "items": [
+   {
+    "sku": "SKU-0037",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-17",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10249",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0116",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0004",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK5584361084"
+ },
+ {
+  "order_id": "WM-10250",
+  "status": "processing",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0029",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0051",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10251",
+  "status": "returned",
+  "order_date": "2026-08-14",
+  "items": [
+   {
+    "sku": "SKU-0074",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-17",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10252",
+  "status": "delivered",
+  "order_date": "2026-09-20",
+  "items": [
+   {
+    "sku": "SKU-0057",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-26",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10253",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0016",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0020",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "USPS",
+  "tracking_number": "TRK3443129747"
+ },
+ {
+  "order_id": "WM-10254",
+  "status": "processing",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0036",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0042",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10255",
+  "status": "delivered",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0071",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0034",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10256",
+  "status": "returned",
+  "order_date": "2026-09-05",
+  "items": [
+   {
+    "sku": "SKU-0086",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0011",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-10",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10257",
+  "status": "delivered",
+  "order_date": "2026-08-06",
+  "items": [
+   {
+    "sku": "SKU-0062",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0005",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-12",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10258",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0028",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10259",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0033",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0036",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0025",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10260",
+  "status": "returned",
+  "order_date": "2026-09-16",
+  "items": [
+   {
+    "sku": "SKU-0023",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-22",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10261",
+  "status": "cancelled",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0035",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10262",
+  "status": "returned",
+  "order_date": "2026-09-22",
+  "items": [
+   {
+    "sku": "SKU-0040",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0009",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0066",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-26",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10263",
+  "status": "returned",
+  "order_date": "2026-09-07",
+  "items": [
+   {
+    "sku": "SKU-0034",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0104",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0032",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-13",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10264",
+  "status": "returned",
+  "order_date": "2026-09-01",
+  "items": [
+   {
+    "sku": "SKU-0120",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-06",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10265",
+  "status": "processing",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0002",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10266",
+  "status": "delivered",
+  "order_date": "2026-08-15",
+  "items": [
+   {
+    "sku": "SKU-0050",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0093",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-19",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10267",
+  "status": "processing",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0058",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0046",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0040",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10268",
+  "status": "processing",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0034",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10269",
+  "status": "returned",
+  "order_date": "2026-08-10",
+  "items": [
+   {
+    "sku": "SKU-0028",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-13",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10270",
+  "status": "delivered",
+  "order_date": "2026-09-03",
+  "items": [
+   {
+    "sku": "SKU-0027",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0023",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0045",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-07",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10271",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0002",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-07",
+  "carrier": "UPS",
+  "tracking_number": "TRK2732387222"
+ },
+ {
+  "order_id": "WM-10272",
+  "status": "shipped",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0003",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "UPS",
+  "tracking_number": "TRK9536248273"
+ },
+ {
+  "order_id": "WM-10273",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0064",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-05",
+  "carrier": "UPS",
+  "tracking_number": "TRK8784985566"
+ },
+ {
+  "order_id": "WM-10274",
+  "status": "cancelled",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0118",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0042",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10275",
+  "status": "delivered",
+  "order_date": "2026-08-15",
+  "items": [
+   {
+    "sku": "SKU-0094",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-08-20",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10276",
+  "status": "delivered",
+  "order_date": "2026-09-04",
+  "items": [
+   {
+    "sku": "SKU-0079",
+    "qty": 3
+   }
+  ],
+  "delivered_date": "2026-09-09",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10277",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0065",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0073",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10278",
+  "status": "cancelled",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0059",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0056",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0086",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10279",
+  "status": "delivered",
+  "order_date": "2026-08-25",
+  "items": [
+   {
+    "sku": "SKU-0077",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0070",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-27",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10280",
+  "status": "processing",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0058",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0037",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10281",
+  "status": "delivered",
+  "order_date": "2026-09-10",
+  "items": [
+   {
+    "sku": "SKU-0020",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0069",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-16",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10282",
+  "status": "delivered",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0061",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0071",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0052",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-22",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10283",
+  "status": "processing",
+  "order_date": "2026-10-03",
+  "items": [
+   {
+    "sku": "SKU-0107",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10284",
+  "status": "shipped",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0034",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0009",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "FedEx",
+  "tracking_number": "TRK8761733450"
+ },
+ {
+  "order_id": "WM-10285",
+  "status": "delivered",
+  "order_date": "2026-08-16",
+  "items": [
+   {
+    "sku": "SKU-0002",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0111",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0055",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-08-19",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10286",
+  "status": "delivered",
+  "order_date": "2026-08-06",
+  "items": [
+   {
+    "sku": "SKU-0057",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0101",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0097",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-11",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10287",
+  "status": "returned",
+  "order_date": "2026-09-20",
+  "items": [
+   {
+    "sku": "SKU-0116",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0009",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0102",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-24",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10288",
+  "status": "delivered",
+  "order_date": "2026-09-19",
+  "items": [
+   {
+    "sku": "SKU-0107",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-24",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10289",
+  "status": "processing",
+  "order_date": "2026-09-30",
+  "items": [
+   {
+    "sku": "SKU-0004",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0109",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10290",
+  "status": "shipped",
+  "order_date": "2026-10-02",
+  "items": [
+   {
+    "sku": "SKU-0012",
+    "qty": 3
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-06",
+  "carrier": "USPS",
+  "tracking_number": "TRK7997402725"
+ },
+ {
+  "order_id": "WM-10291",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0056",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0049",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0002",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10292",
+  "status": "delivered",
+  "order_date": "2026-09-16",
+  "items": [
+   {
+    "sku": "SKU-0078",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0027",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0089",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-22",
+  "eta": null,
+  "carrier": "FedEx",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10293",
+  "status": "delivered",
+  "order_date": "2026-09-10",
+  "items": [
+   {
+    "sku": "SKU-0036",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-14",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10294",
+  "status": "processing",
+  "order_date": "2026-09-28",
+  "items": [
+   {
+    "sku": "SKU-0040",
+    "qty": 1
+   },
+   {
+    "sku": "SKU-0026",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10295",
+  "status": "delivered",
+  "order_date": "2026-09-17",
+  "items": [
+   {
+    "sku": "SKU-0092",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0047",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0112",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-09-19",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10296",
+  "status": "delivered",
+  "order_date": "2026-09-09",
+  "items": [
+   {
+    "sku": "SKU-0048",
+    "qty": 3
+   },
+   {
+    "sku": "SKU-0105",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-14",
+  "eta": null,
+  "carrier": "UPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10297",
+  "status": "shipped",
+  "order_date": "2026-09-29",
+  "items": [
+   {
+    "sku": "SKU-0013",
+    "qty": 2
+   }
+  ],
+  "delivered_date": null,
+  "eta": "2026-10-08",
+  "carrier": "USPS",
+  "tracking_number": "TRK2794707677"
+ },
+ {
+  "order_id": "WM-10298",
+  "status": "processing",
+  "order_date": "2026-10-01",
+  "items": [
+   {
+    "sku": "SKU-0037",
+    "qty": 1
+   }
+  ],
+  "delivered_date": null,
+  "eta": null,
+  "carrier": null,
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10299",
+  "status": "delivered",
+  "order_date": "2026-08-10",
+  "items": [
+   {
+    "sku": "SKU-0083",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0059",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0029",
+    "qty": 1
+   }
+  ],
+  "delivered_date": "2026-08-15",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ },
+ {
+  "order_id": "WM-10300",
+  "status": "delivered",
+  "order_date": "2026-09-05",
+  "items": [
+   {
+    "sku": "SKU-0082",
+    "qty": 2
+   },
+   {
+    "sku": "SKU-0009",
+    "qty": 2
+   }
+  ],
+  "delivered_date": "2026-09-09",
+  "eta": null,
+  "carrier": "USPS",
+  "tracking_number": null
+ }
+]

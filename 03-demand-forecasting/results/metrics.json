@@ -1,0 +1,31 @@
+{
+  "n_series": 24,
+  "n_days": 1095,
+  "horizon_days": 7,
+  "best_hgb_params": {
+    "learning_rate": 0.05,
+    "max_leaf_nodes": 31,
+    "l2_regularization": 0.0
+  },
+  "oracle_noise_floor_wape": 0.054826080896286176,
+  "rolling_origin_wape_mean": {
+    "hist_gradient_boosting": 0.0999,
+    "ridge": 0.1126,
+    "seasonal_naive": 0.1945
+  },
+  "rolling_origin_wape_std": {
+    "hist_gradient_boosting": 0.005,
+    "ridge": 0.011,
+    "seasonal_naive": 0.0164
+  },
+  "rolling_origin_bias_mean": {
+    "hist_gradient_boosting": -0.0056,
+    "ridge": -0.0012,
+    "seasonal_naive": 0.0047
+  },
+  "interval_80_coverage": 0.7369791666666666,
+  "interval_median_relative_width": 0.3165936073152842,
+  "wape_reduction_vs_seasonal_naive_pct": 48.637532133676096,
+  "assumed_annual_holding_cost_naive_usd": 6013.1771615759635,
+  "assumed_annual_holding_cost_model_usd": 3301.5459488369743
+}

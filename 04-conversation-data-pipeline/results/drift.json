@@ -1,0 +1,30 @@
+{
+  "baseline_window": [
+    "2026-09-04",
+    "2026-09-17"
+  ],
+  "recent_window": [
+    "2026-09-28",
+    "2026-10-04"
+  ],
+  "intent_psi": 0.22587420839700428,
+  "handoff_rate_baseline": 0.05122268846766025,
+  "handoff_rate_recent": 0.1621454993834772,
+  "handoff_z": 18.525647854459383,
+  "handoff_p_value": 0.0,
+  "alerts": [
+    {
+      "severity": "alert",
+      "signal": "intent_mix_psi",
+      "value": 0.22587420839700428,
+      "threshold": 0.2
+    },
+    {
+      "severity": "alert",
+      "signal": "handoff_rate_increase",
+      "value": 2.1655015430486184,
+      "threshold": 0.25,
+      "p_value": 0.0
+    }
+  ]
+}

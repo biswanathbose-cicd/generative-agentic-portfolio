@@ -1,0 +1,962 @@
+[
+ {
+  "sku": "SKU-0001",
+  "name": "Oakline durable wireless earbuds",
+  "category": "electronics",
+  "price": 149.97,
+  "in_stock": true,
+  "description": "durable wireless earbuds by Oakline: one year warranty, long battery life, works with most devices."
+ },
+ {
+  "sku": "SKU-0002",
+  "name": "Voltix budget wireless earbuds",
+  "category": "electronics",
+  "price": 18.3,
+  "in_stock": true,
+  "description": "budget wireless earbuds by Voltix: works with most devices, long battery life, fast charging."
+ },
+ {
+  "sku": "SKU-0003",
+  "name": "Northpeak rechargeable wireless earbuds",
+  "category": "electronics",
+  "price": 104.58,
+  "in_stock": true,
+  "description": "rechargeable wireless earbuds by Northpeak: long battery life, fast charging, one year warranty."
+ },
+ {
+  "sku": "SKU-0004",
+  "name": "Homeora ultra bluetooth speaker",
+  "category": "electronics",
+  "price": 108.95,
+  "in_stock": true,
+  "description": "ultra bluetooth speaker by Homeora: one year warranty, works with most devices, long battery life."
+ },
+ {
+  "sku": "SKU-0005",
+  "name": "Northpeak budget bluetooth speaker",
+  "category": "electronics",
+  "price": 60.65,
+  "in_stock": true,
+  "description": "budget bluetooth speaker by Northpeak: fast charging, long battery life, one year warranty."
+ },
+ {
+  "sku": "SKU-0006",
+  "name": "Brightwell lightweight bluetooth speaker",
+  "category": "electronics",
+  "price": 106.12,
+  "in_stock": true,
+  "description": "lightweight bluetooth speaker by Brightwell: long battery life, works with most devices, noise isolation."
+ },
+ {
+  "sku": "SKU-0007",
+  "name": "Oakline premium laptop stand",
+  "category": "electronics",
+  "price": 28.37,
+  "in_stock": true,
+  "description": "premium laptop stand by Oakline: one year warranty, fast charging, noise isolation."
+ },
+ {
+  "sku": "SKU-0008",
+  "name": "Fresh Harvest ultra laptop stand",
+  "category": "electronics",
+  "price": 95.4,
+  "in_stock": true,
+  "description": "ultra laptop stand by Fresh Harvest: works with most devices, long battery life, fast charging."
+ },
+ {
+  "sku": "SKU-0009",
+  "name": "Kidzo ultra laptop stand",
+  "category": "electronics",
+  "price": 72.75,
+  "in_stock": true,
+  "description": "ultra laptop stand by Kidzo: noise isolation, compact design, works with most devices."
+ },
+ {
+  "sku": "SKU-0010",
+  "name": "Homeora family-size usb-c charger",
+  "category": "electronics",
+  "price": 159.02,
+  "in_stock": true,
+  "description": "family-size usb-c charger by Homeora: works with most devices, noise isolation, compact design."
+ },
+ {
+  "sku": "SKU-0011",
+  "name": "Kidzo lightweight usb-c charger",
+  "category": "electronics",
+  "price": 31.84,
+  "in_stock": true,
+  "description": "lightweight usb-c charger by Kidzo: noise isolation, works with most devices, long battery life."
+ },
+ {
+  "sku": "SKU-0012",
+  "name": "Kidzo premium usb-c charger",
+  "category": "electronics",
+  "price": 82.85,
+  "in_stock": false,
+  "description": "premium usb-c charger by Kidzo: noise isolation, fast charging, compact design."
+ },
+ {
+  "sku": "SKU-0013",
+  "name": "Homeora premium smart watch",
+  "category": "electronics",
+  "price": 111.85,
+  "in_stock": true,
+  "description": "premium smart watch by Homeora: noise isolation, one year warranty, works with most devices."
+ },
+ {
+  "sku": "SKU-0014",
+  "name": "Northpeak ultra smart watch",
+  "category": "electronics",
+  "price": 170.71,
+  "in_stock": true,
+  "description": "ultra smart watch by Northpeak: compact design, long battery life, works with most devices."
+ },
+ {
+  "sku": "SKU-0015",
+  "name": "Kidzo ultra smart watch",
+  "category": "electronics",
+  "price": 134.83,
+  "in_stock": true,
+  "description": "ultra smart watch by Kidzo: one year warranty, long battery life, works with most devices."
+ },
+ {
+  "sku": "SKU-0016",
+  "name": "Kidzo ultra gaming mouse",
+  "category": "electronics",
+  "price": 15.79,
+  "in_stock": true,
+  "description": "ultra gaming mouse by Kidzo: one year warranty, compact design, noise isolation."
+ },
+ {
+  "sku": "SKU-0017",
+  "name": "Northpeak organic gaming mouse",
+  "category": "electronics",
+  "price": 94.94,
+  "in_stock": true,
+  "description": "organic gaming mouse by Northpeak: fast charging, works with most devices, long battery life."
+ },
+ {
+  "sku": "SKU-0018",
+  "name": "Northpeak durable gaming mouse",
+  "category": "electronics",
+  "price": 78.85,
+  "in_stock": false,
+  "description": "durable gaming mouse by Northpeak: noise isolation, fast charging, works with most devices."
+ },
+ {
+  "sku": "SKU-0019",
+  "name": "Brightwell classic hdmi cable",
+  "category": "electronics",
+  "price": 160.41,
+  "in_stock": true,
+  "description": "classic hdmi cable by Brightwell: compact design, one year warranty, noise isolation."
+ },
+ {
+  "sku": "SKU-0020",
+  "name": "Kidzo premium hdmi cable",
+  "category": "electronics",
+  "price": 177.73,
+  "in_stock": true,
+  "description": "premium hdmi cable by Kidzo: works with most devices, noise isolation, compact design."
+ },
+ {
+  "sku": "SKU-0021",
+  "name": "Brightwell family-size hdmi cable",
+  "category": "electronics",
+  "price": 25.94,
+  "in_stock": true,
+  "description": "family-size hdmi cable by Brightwell: compact design, fast charging, works with most devices."
+ },
+ {
+  "sku": "SKU-0022",
+  "name": "Northpeak lightweight tablet case",
+  "category": "electronics",
+  "price": 59.36,
+  "in_stock": true,
+  "description": "lightweight tablet case by Northpeak: works with most devices, fast charging, noise isolation."
+ },
+ {
+  "sku": "SKU-0023",
+  "name": "Northpeak compact tablet case",
+  "category": "electronics",
+  "price": 172.12,
+  "in_stock": true,
+  "description": "compact tablet case by Northpeak: works with most devices, noise isolation, one year warranty."
+ },
+ {
+  "sku": "SKU-0024",
+  "name": "Oakline organic tablet case",
+  "category": "electronics",
+  "price": 88.72,
+  "in_stock": true,
+  "description": "organic tablet case by Oakline: works with most devices, one year warranty, long battery life."
+ },
+ {
+  "sku": "SKU-0025",
+  "name": "Northpeak ultra air fryer",
+  "category": "home",
+  "price": 100.63,
+  "in_stock": true,
+  "description": "ultra air fryer by Northpeak: space saving, easy to clean, two year warranty."
+ },
+ {
+  "sku": "SKU-0026",
+  "name": "Northpeak rechargeable air fryer",
+  "category": "home",
+  "price": 36.91,
+  "in_stock": true,
+  "description": "rechargeable air fryer by Northpeak: easy to clean, energy efficient, space saving."
+ },
+ {
+  "sku": "SKU-0027",
+  "name": "Homeora rechargeable air fryer",
+  "category": "home",
+  "price": 91.52,
+  "in_stock": true,
+  "description": "rechargeable air fryer by Homeora: easy to clean, two year warranty, dishwasher safe parts."
+ },
+ {
+  "sku": "SKU-0028",
+  "name": "Fresh Harvest waterproof blender",
+  "category": "home",
+  "price": 35.05,
+  "in_stock": true,
+  "description": "waterproof blender by Fresh Harvest: easy to clean, energy efficient, space saving."
+ },
+ {
+  "sku": "SKU-0029",
+  "name": "Northpeak everyday blender",
+  "category": "home",
+  "price": 79.01,
+  "in_stock": true,
+  "description": "everyday blender by Northpeak: quiet operation, dishwasher safe parts, two year warranty."
+ },
+ {
+  "sku": "SKU-0030",
+  "name": "Kidzo compact blender",
+  "category": "home",
+  "price": 80.32,
+  "in_stock": true,
+  "description": "compact blender by Kidzo: space saving, two year warranty, dishwasher safe parts."
+ },
+ {
+  "sku": "SKU-0031",
+  "name": "Oakline premium vacuum cleaner",
+  "category": "home",
+  "price": 42.7,
+  "in_stock": false,
+  "description": "premium vacuum cleaner by Oakline: space saving, energy efficient, easy to clean."
+ },
+ {
+  "sku": "SKU-0032",
+  "name": "Northpeak waterproof vacuum cleaner",
+  "category": "home",
+  "price": 117.35,
+  "in_stock": true,
+  "description": "waterproof vacuum cleaner by Northpeak: quiet operation, energy efficient, easy to clean."
+ },
+ {
+  "sku": "SKU-0033",
+  "name": "Voltix lightweight vacuum cleaner",
+  "category": "home",
+  "price": 84.98,
+  "in_stock": false,
+  "description": "lightweight vacuum cleaner by Voltix: two year warranty, easy to clean, quiet operation."
+ },
+ {
+  "sku": "SKU-0034",
+  "name": "Kidzo waterproof memory foam pillow",
+  "category": "home",
+  "price": 100.92,
+  "in_stock": true,
+  "description": "waterproof memory foam pillow by Kidzo: dishwasher safe parts, two year warranty, quiet operation."
+ },
+ {
+  "sku": "SKU-0035",
+  "name": "Brightwell lightweight memory foam pillow",
+  "category": "home",
+  "price": 114.88,
+  "in_stock": true,
+  "description": "lightweight memory foam pillow by Brightwell: energy efficient, two year warranty, space saving."
+ },
+ {
+  "sku": "SKU-0036",
+  "name": "Voltix classic memory foam pillow",
+  "category": "home",
+  "price": 113.69,
+  "in_stock": false,
+  "description": "classic memory foam pillow by Voltix: dishwasher safe parts, space saving, quiet operation."
+ },
+ {
+  "sku": "SKU-0037",
+  "name": "Brightwell durable led desk lamp",
+  "category": "home",
+  "price": 75.38,
+  "in_stock": false,
+  "description": "durable led desk lamp by Brightwell: energy efficient, dishwasher safe parts, quiet operation."
+ },
+ {
+  "sku": "SKU-0038",
+  "name": "Fresh Harvest organic led desk lamp",
+  "category": "home",
+  "price": 44.76,
+  "in_stock": true,
+  "description": "organic led desk lamp by Fresh Harvest: quiet operation, two year warranty, easy to clean."
+ },
+ {
+  "sku": "SKU-0039",
+  "name": "Voltix lightweight led desk lamp",
+  "category": "home",
+  "price": 80.16,
+  "in_stock": false,
+  "description": "lightweight led desk lamp by Voltix: energy efficient, quiet operation, two year warranty."
+ },
+ {
+  "sku": "SKU-0040",
+  "name": "Northpeak everyday coffee maker",
+  "category": "home",
+  "price": 127.68,
+  "in_stock": true,
+  "description": "everyday coffee maker by Northpeak: two year warranty, quiet operation, easy to clean."
+ },
+ {
+  "sku": "SKU-0041",
+  "name": "Brightwell compact coffee maker",
+  "category": "home",
+  "price": 135.02,
+  "in_stock": true,
+  "description": "compact coffee maker by Brightwell: space saving, energy efficient, two year warranty."
+ },
+ {
+  "sku": "SKU-0042",
+  "name": "Voltix organic coffee maker",
+  "category": "home",
+  "price": 123.11,
+  "in_stock": false,
+  "description": "organic coffee maker by Voltix: two year warranty, quiet operation, easy to clean."
+ },
+ {
+  "sku": "SKU-0043",
+  "name": "Northpeak rechargeable bath towel set",
+  "category": "home",
+  "price": 37.95,
+  "in_stock": true,
+  "description": "rechargeable bath towel set by Northpeak: two year warranty, easy to clean, energy efficient."
+ },
+ {
+  "sku": "SKU-0044",
+  "name": "Kidzo organic bath towel set",
+  "category": "home",
+  "price": 123.88,
+  "in_stock": true,
+  "description": "organic bath towel set by Kidzo: energy efficient, dishwasher safe parts, space saving."
+ },
+ {
+  "sku": "SKU-0045",
+  "name": "Homeora rechargeable bath towel set",
+  "category": "home",
+  "price": 36.05,
+  "in_stock": true,
+  "description": "rechargeable bath towel set by Homeora: dishwasher safe parts, space saving, quiet operation."
+ },
+ {
+  "sku": "SKU-0046",
+  "name": "Homeora compact storage bin",
+  "category": "home",
+  "price": 73.56,
+  "in_stock": true,
+  "description": "compact storage bin by Homeora: easy to clean, dishwasher safe parts, energy efficient."
+ },
+ {
+  "sku": "SKU-0047",
+  "name": "Northpeak compact storage bin",
+  "category": "home",
+  "price": 43.73,
+  "in_stock": true,
+  "description": "compact storage bin by Northpeak: energy efficient, easy to clean, quiet operation."
+ },
+ {
+  "sku": "SKU-0048",
+  "name": "Oakline everyday storage bin",
+  "category": "home",
+  "price": 88.49,
+  "in_stock": true,
+  "description": "everyday storage bin by Oakline: dishwasher safe parts, quiet operation, two year warranty."
+ },
+ {
+  "sku": "SKU-0049",
+  "name": "Brightwell premium oats cereal",
+  "category": "grocery",
+  "price": 12.75,
+  "in_stock": true,
+  "description": "premium oats cereal by Brightwell: pantry staple, non-gmo, gluten free option."
+ },
+ {
+  "sku": "SKU-0050",
+  "name": "Kidzo waterproof oats cereal",
+  "category": "grocery",
+  "price": 8.81,
+  "in_stock": true,
+  "description": "waterproof oats cereal by Kidzo: resealable pack, non-gmo, pantry staple."
+ },
+ {
+  "sku": "SKU-0051",
+  "name": "Homeora organic oats cereal",
+  "category": "grocery",
+  "price": 12.09,
+  "in_stock": true,
+  "description": "organic oats cereal by Homeora: gluten free option, resealable pack, no artificial flavors."
+ },
+ {
+  "sku": "SKU-0052",
+  "name": "Fresh Harvest budget almond milk",
+  "category": "grocery",
+  "price": 6.24,
+  "in_stock": true,
+  "description": "budget almond milk by Fresh Harvest: pantry staple, no artificial flavors, non-gmo."
+ },
+ {
+  "sku": "SKU-0053",
+  "name": "Fresh Harvest organic almond milk",
+  "category": "grocery",
+  "price": 13.48,
+  "in_stock": true,
+  "description": "organic almond milk by Fresh Harvest: non-gmo, gluten free option, no artificial flavors."
+ },
+ {
+  "sku": "SKU-0054",
+  "name": "Homeora everyday almond milk",
+  "category": "grocery",
+  "price": 12.04,
+  "in_stock": true,
+  "description": "everyday almond milk by Homeora: resealable pack, great for breakfast, no artificial flavors."
+ },
+ {
+  "sku": "SKU-0055",
+  "name": "Northpeak ultra whole bean coffee",
+  "category": "grocery",
+  "price": 11.01,
+  "in_stock": true,
+  "description": "ultra whole bean coffee by Northpeak: gluten free option, great for breakfast, resealable pack."
+ },
+ {
+  "sku": "SKU-0056",
+  "name": "Kidzo compact whole bean coffee",
+  "category": "grocery",
+  "price": 11.09,
+  "in_stock": true,
+  "description": "compact whole bean coffee by Kidzo: non-gmo, gluten free option, resealable pack."
+ },
+ {
+  "sku": "SKU-0057",
+  "name": "Northpeak premium whole bean coffee",
+  "category": "grocery",
+  "price": 12.92,
+  "in_stock": true,
+  "description": "premium whole bean coffee by Northpeak: great for breakfast, non-gmo, resealable pack."
+ },
+ {
+  "sku": "SKU-0058",
+  "name": "Northpeak budget olive oil",
+  "category": "grocery",
+  "price": 7.57,
+  "in_stock": true,
+  "description": "budget olive oil by Northpeak: great for breakfast, no artificial flavors, resealable pack."
+ },
+ {
+  "sku": "SKU-0059",
+  "name": "Northpeak rechargeable olive oil",
+  "category": "grocery",
+  "price": 14.21,
+  "in_stock": true,
+  "description": "rechargeable olive oil by Northpeak: great for breakfast, no artificial flavors, resealable pack."
+ },
+ {
+  "sku": "SKU-0060",
+  "name": "Brightwell organic olive oil",
+  "category": "grocery",
+  "price": 13.48,
+  "in_stock": false,
+  "description": "organic olive oil by Brightwell: great for breakfast, resealable pack, pantry staple."
+ },
+ {
+  "sku": "SKU-0061",
+  "name": "Brightwell lightweight trail mix",
+  "category": "grocery",
+  "price": 4.1,
+  "in_stock": true,
+  "description": "lightweight trail mix by Brightwell: gluten free option, resealable pack, non-gmo."
+ },
+ {
+  "sku": "SKU-0062",
+  "name": "Voltix premium trail mix",
+  "category": "grocery",
+  "price": 7.48,
+  "in_stock": true,
+  "description": "premium trail mix by Voltix: non-gmo, gluten free option, great for breakfast."
+ },
+ {
+  "sku": "SKU-0063",
+  "name": "Northpeak rechargeable trail mix",
+  "category": "grocery",
+  "price": 6.39,
+  "in_stock": true,
+  "description": "rechargeable trail mix by Northpeak: no artificial flavors, great for breakfast, pantry staple."
+ },
+ {
+  "sku": "SKU-0064",
+  "name": "Homeora compact sparkling water",
+  "category": "grocery",
+  "price": 8.66,
+  "in_stock": true,
+  "description": "compact sparkling water by Homeora: non-gmo, pantry staple, great for breakfast."
+ },
+ {
+  "sku": "SKU-0065",
+  "name": "Brightwell rechargeable sparkling water",
+  "category": "grocery",
+  "price": 5.45,
+  "in_stock": true,
+  "description": "rechargeable sparkling water by Brightwell: resealable pack, no artificial flavors, non-gmo."
+ },
+ {
+  "sku": "SKU-0066",
+  "name": "Brightwell waterproof sparkling water",
+  "category": "grocery",
+  "price": 12.66,
+  "in_stock": true,
+  "description": "waterproof sparkling water by Brightwell: resealable pack, great for breakfast, pantry staple."
+ },
+ {
+  "sku": "SKU-0067",
+  "name": "Voltix lightweight peanut butter",
+  "category": "grocery",
+  "price": 11.11,
+  "in_stock": true,
+  "description": "lightweight peanut butter by Voltix: non-gmo, pantry staple, gluten free option."
+ },
+ {
+  "sku": "SKU-0068",
+  "name": "Homeora rechargeable peanut butter",
+  "category": "grocery",
+  "price": 13.64,
+  "in_stock": true,
+  "description": "rechargeable peanut butter by Homeora: no artificial flavors, resealable pack, gluten free option."
+ },
+ {
+  "sku": "SKU-0069",
+  "name": "Voltix budget peanut butter",
+  "category": "grocery",
+  "price": 3.09,
+  "in_stock": true,
+  "description": "budget peanut butter by Voltix: no artificial flavors, pantry staple, great for breakfast."
+ },
+ {
+  "sku": "SKU-0070",
+  "name": "Northpeak premium pasta sauce",
+  "category": "grocery",
+  "price": 14.93,
+  "in_stock": true,
+  "description": "premium pasta sauce by Northpeak: gluten free option, no artificial flavors, great for breakfast."
+ },
+ {
+  "sku": "SKU-0071",
+  "name": "Voltix lightweight pasta sauce",
+  "category": "grocery",
+  "price": 2.56,
+  "in_stock": true,
+  "description": "lightweight pasta sauce by Voltix: great for breakfast, non-gmo, resealable pack."
+ },
+ {
+  "sku": "SKU-0072",
+  "name": "Northpeak budget pasta sauce",
+  "category": "grocery",
+  "price": 2.65,
+  "in_stock": true,
+  "description": "budget pasta sauce by Northpeak: no artificial flavors, resealable pack, great for breakfast."
+ },
+ {
+  "sku": "SKU-0073",
+  "name": "Fresh Harvest durable building blocks set",
+  "category": "toys",
+  "price": 34.0,
+  "in_stock": true,
+  "description": "durable building blocks set by Fresh Harvest: encourages creativity, easy assembly, safe materials."
+ },
+ {
+  "sku": "SKU-0074",
+  "name": "Kidzo everyday building blocks set",
+  "category": "toys",
+  "price": 9.92,
+  "in_stock": true,
+  "description": "everyday building blocks set by Kidzo: easy assembly, ages 6 and up, batteries included."
+ },
+ {
+  "sku": "SKU-0075",
+  "name": "Fresh Harvest classic building blocks set",
+  "category": "toys",
+  "price": 34.74,
+  "in_stock": true,
+  "description": "classic building blocks set by Fresh Harvest: great gift idea, batteries included, encourages creativity."
+ },
+ {
+  "sku": "SKU-0076",
+  "name": "Northpeak organic remote control car",
+  "category": "toys",
+  "price": 58.46,
+  "in_stock": true,
+  "description": "organic remote control car by Northpeak: safe materials, batteries included, great gift idea."
+ },
+ {
+  "sku": "SKU-0077",
+  "name": "Oakline premium remote control car",
+  "category": "toys",
+  "price": 18.33,
+  "in_stock": true,
+  "description": "premium remote control car by Oakline: encourages creativity, batteries included, easy assembly."
+ },
+ {
+  "sku": "SKU-0078",
+  "name": "Oakline everyday remote control car",
+  "category": "toys",
+  "price": 59.45,
+  "in_stock": false,
+  "description": "everyday remote control car by Oakline: batteries included, encourages creativity, safe materials."
+ },
+ {
+  "sku": "SKU-0079",
+  "name": "Homeora budget plush bear",
+  "category": "toys",
+  "price": 16.49,
+  "in_stock": true,
+  "description": "budget plush bear by Homeora: batteries included, easy assembly, safe materials."
+ },
+ {
+  "sku": "SKU-0080",
+  "name": "Northpeak compact plush bear",
+  "category": "toys",
+  "price": 39.14,
+  "in_stock": true,
+  "description": "compact plush bear by Northpeak: safe materials, great gift idea, easy assembly."
+ },
+ {
+  "sku": "SKU-0081",
+  "name": "Homeora premium plush bear",
+  "category": "toys",
+  "price": 16.19,
+  "in_stock": true,
+  "description": "premium plush bear by Homeora: ages 6 and up, safe materials, encourages creativity."
+ },
+ {
+  "sku": "SKU-0082",
+  "name": "Voltix lightweight jigsaw puzzle",
+  "category": "toys",
+  "price": 9.79,
+  "in_stock": true,
+  "description": "lightweight jigsaw puzzle by Voltix: great gift idea, easy assembly, encourages creativity."
+ },
+ {
+  "sku": "SKU-0083",
+  "name": "Fresh Harvest waterproof jigsaw puzzle",
+  "category": "toys",
+  "price": 8.06,
+  "in_stock": true,
+  "description": "waterproof jigsaw puzzle by Fresh Harvest: encourages creativity, easy assembly, batteries included."
+ },
+ {
+  "sku": "SKU-0084",
+  "name": "Brightwell waterproof jigsaw puzzle",
+  "category": "toys",
+  "price": 20.91,
+  "in_stock": true,
+  "description": "waterproof jigsaw puzzle by Brightwell: safe materials, easy assembly, encourages creativity."
+ },
+ {
+  "sku": "SKU-0085",
+  "name": "Fresh Harvest premium board game",
+  "category": "toys",
+  "price": 28.49,
+  "in_stock": true,
+  "description": "premium board game by Fresh Harvest: safe materials, great gift idea, ages 6 and up."
+ },
+ {
+  "sku": "SKU-0086",
+  "name": "Voltix lightweight board game",
+  "category": "toys",
+  "price": 38.45,
+  "in_stock": true,
+  "description": "lightweight board game by Voltix: batteries included, encourages creativity, ages 6 and up."
+ },
+ {
+  "sku": "SKU-0087",
+  "name": "Fresh Harvest budget board game",
+  "category": "toys",
+  "price": 47.74,
+  "in_stock": true,
+  "description": "budget board game by Fresh Harvest: encourages creativity, great gift idea, safe materials."
+ },
+ {
+  "sku": "SKU-0088",
+  "name": "Brightwell classic art supplies kit",
+  "category": "toys",
+  "price": 10.28,
+  "in_stock": true,
+  "description": "classic art supplies kit by Brightwell: batteries included, great gift idea, encourages creativity."
+ },
+ {
+  "sku": "SKU-0089",
+  "name": "Voltix budget art supplies kit",
+  "category": "toys",
+  "price": 55.31,
+  "in_stock": true,
+  "description": "budget art supplies kit by Voltix: great gift idea, safe materials, encourages creativity."
+ },
+ {
+  "sku": "SKU-0090",
+  "name": "Northpeak durable art supplies kit",
+  "category": "toys",
+  "price": 12.42,
+  "in_stock": true,
+  "description": "durable art supplies kit by Northpeak: great gift idea, ages 6 and up, encourages creativity."
+ },
+ {
+  "sku": "SKU-0091",
+  "name": "Fresh Harvest everyday water gun",
+  "category": "toys",
+  "price": 40.64,
+  "in_stock": true,
+  "description": "everyday water gun by Fresh Harvest: safe materials, batteries included, ages 6 and up."
+ },
+ {
+  "sku": "SKU-0092",
+  "name": "Fresh Harvest waterproof water gun",
+  "category": "toys",
+  "price": 21.72,
+  "in_stock": true,
+  "description": "waterproof water gun by Fresh Harvest: batteries included, encourages creativity, safe materials."
+ },
+ {
+  "sku": "SKU-0093",
+  "name": "Oakline premium water gun",
+  "category": "toys",
+  "price": 42.28,
+  "in_stock": true,
+  "description": "premium water gun by Oakline: ages 6 and up, great gift idea, batteries included."
+ },
+ {
+  "sku": "SKU-0094",
+  "name": "Fresh Harvest organic kids scooter",
+  "category": "toys",
+  "price": 20.0,
+  "in_stock": true,
+  "description": "organic kids scooter by Fresh Harvest: easy assembly, encourages creativity, great gift idea."
+ },
+ {
+  "sku": "SKU-0095",
+  "name": "Fresh Harvest lightweight kids scooter",
+  "category": "toys",
+  "price": 11.99,
+  "in_stock": false,
+  "description": "lightweight kids scooter by Fresh Harvest: safe materials, batteries included, great gift idea."
+ },
+ {
+  "sku": "SKU-0096",
+  "name": "Homeora premium kids scooter",
+  "category": "toys",
+  "price": 12.03,
+  "in_stock": true,
+  "description": "premium kids scooter by Homeora: easy assembly, ages 6 and up, encourages creativity."
+ },
+ {
+  "sku": "SKU-0097",
+  "name": "Fresh Harvest lightweight running shoes",
+  "category": "apparel",
+  "price": 11.0,
+  "in_stock": true,
+  "description": "lightweight running shoes by Fresh Harvest: reinforced stitching, available in many colors, breathable fabric."
+ },
+ {
+  "sku": "SKU-0098",
+  "name": "Oakline everyday running shoes",
+  "category": "apparel",
+  "price": 64.06,
+  "in_stock": true,
+  "description": "everyday running shoes by Oakline: true to size, machine washable, breathable fabric."
+ },
+ {
+  "sku": "SKU-0099",
+  "name": "Kidzo durable running shoes",
+  "category": "apparel",
+  "price": 47.27,
+  "in_stock": true,
+  "description": "durable running shoes by Kidzo: reinforced stitching, true to size, all season wear."
+ },
+ {
+  "sku": "SKU-0100",
+  "name": "Brightwell ultra rain jacket",
+  "category": "apparel",
+  "price": 33.17,
+  "in_stock": true,
+  "description": "ultra rain jacket by Brightwell: machine washable, all season wear, available in many colors."
+ },
+ {
+  "sku": "SKU-0101",
+  "name": "Fresh Harvest family-size rain jacket",
+  "category": "apparel",
+  "price": 40.95,
+  "in_stock": false,
+  "description": "family-size rain jacket by Fresh Harvest: reinforced stitching, all season wear, true to size."
+ },
+ {
+  "sku": "SKU-0102",
+  "name": "Fresh Harvest durable rain jacket",
+  "category": "apparel",
+  "price": 21.34,
+  "in_stock": true,
+  "description": "durable rain jacket by Fresh Harvest: breathable fabric, machine washable, reinforced stitching."
+ },
+ {
+  "sku": "SKU-0103",
+  "name": "Fresh Harvest waterproof cotton t-shirt",
+  "category": "apparel",
+  "price": 80.95,
+  "in_stock": true,
+  "description": "waterproof cotton t-shirt by Fresh Harvest: available in many colors, reinforced stitching, true to size."
+ },
+ {
+  "sku": "SKU-0104",
+  "name": "Homeora budget cotton t-shirt",
+  "category": "apparel",
+  "price": 41.53,
+  "in_stock": true,
+  "description": "budget cotton t-shirt by Homeora: breathable fabric, all season wear, reinforced stitching."
+ },
+ {
+  "sku": "SKU-0105",
+  "name": "Brightwell everyday cotton t-shirt",
+  "category": "apparel",
+  "price": 34.16,
+  "in_stock": true,
+  "description": "everyday cotton t-shirt by Brightwell: all season wear, available in many colors, reinforced stitching."
+ },
+ {
+  "sku": "SKU-0106",
+  "name": "Homeora waterproof denim jeans",
+  "category": "apparel",
+  "price": 35.96,
+  "in_stock": true,
+  "description": "waterproof denim jeans by Homeora: machine washable, true to size, available in many colors."
+ },
+ {
+  "sku": "SKU-0107",
+  "name": "Oakline waterproof denim jeans",
+  "category": "apparel",
+  "price": 67.04,
+  "in_stock": false,
+  "description": "waterproof denim jeans by Oakline: all season wear, machine washable, breathable fabric."
+ },
+ {
+  "sku": "SKU-0108",
+  "name": "Voltix durable denim jeans",
+  "category": "apparel",
+  "price": 15.2,
+  "in_stock": true,
+  "description": "durable denim jeans by Voltix: true to size, available in many colors, reinforced stitching."
+ },
+ {
+  "sku": "SKU-0109",
+  "name": "Voltix ultra winter gloves",
+  "category": "apparel",
+  "price": 32.45,
+  "in_stock": true,
+  "description": "ultra winter gloves by Voltix: all season wear, true to size, machine washable."
+ },
+ {
+  "sku": "SKU-0110",
+  "name": "Homeora premium winter gloves",
+  "category": "apparel",
+  "price": 29.95,
+  "in_stock": true,
+  "description": "premium winter gloves by Homeora: available in many colors, true to size, breathable fabric."
+ },
+ {
+  "sku": "SKU-0111",
+  "name": "Fresh Harvest waterproof winter gloves",
+  "category": "apparel",
+  "price": 71.85,
+  "in_stock": true,
+  "description": "waterproof winter gloves by Fresh Harvest: reinforced stitching, true to size, breathable fabric."
+ },
+ {
+  "sku": "SKU-0112",
+  "name": "Voltix rechargeable wool socks",
+  "category": "apparel",
+  "price": 67.57,
+  "in_stock": true,
+  "description": "rechargeable wool socks by Voltix: all season wear, reinforced stitching, breathable fabric."
+ },
+ {
+  "sku": "SKU-0113",
+  "name": "Kidzo compact wool socks",
+  "category": "apparel",
+  "price": 59.19,
+  "in_stock": true,
+  "description": "compact wool socks by Kidzo: available in many colors, all season wear, reinforced stitching."
+ },
+ {
+  "sku": "SKU-0114",
+  "name": "Kidzo everyday wool socks",
+  "category": "apparel",
+  "price": 82.95,
+  "in_stock": true,
+  "description": "everyday wool socks by Kidzo: true to size, all season wear, machine washable."
+ },
+ {
+  "sku": "SKU-0115",
+  "name": "Brightwell family-size baseball cap",
+  "category": "apparel",
+  "price": 30.46,
+  "in_stock": true,
+  "description": "family-size baseball cap by Brightwell: true to size, available in many colors, reinforced stitching."
+ },
+ {
+  "sku": "SKU-0116",
+  "name": "Fresh Harvest organic baseball cap",
+  "category": "apparel",
+  "price": 62.48,
+  "in_stock": true,
+  "description": "organic baseball cap by Fresh Harvest: available in many colors, true to size, all season wear."
+ },
+ {
+  "sku": "SKU-0117",
+  "name": "Fresh Harvest rechargeable baseball cap",
+  "category": "apparel",
+  "price": 23.39,
+  "in_stock": true,
+  "description": "rechargeable baseball cap by Fresh Harvest: reinforced stitching, all season wear, machine washable."
+ },
+ {
+  "sku": "SKU-0118",
+  "name": "Voltix family-size yoga pants",
+  "category": "apparel",
+  "price": 82.5,
+  "in_stock": false,
+  "description": "family-size yoga pants by Voltix: reinforced stitching, breathable fabric, all season wear."
+ },
+ {
+  "sku": "SKU-0119",
+  "name": "Northpeak classic yoga pants",
+  "category": "apparel",
+  "price": 53.82,
+  "in_stock": true,
+  "description": "classic yoga pants by Northpeak: all season wear, available in many colors, breathable fabric."
+ },
+ {
+  "sku": "SKU-0120",
+  "name": "Brightwell classic yoga pants",
+  "category": "apparel",
+  "price": 35.54,
+  "in_stock": true,
+  "description": "classic yoga pants by Brightwell: breathable fabric, true to size, machine washable."
+ }
+]

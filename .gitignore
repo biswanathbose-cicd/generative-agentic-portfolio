@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+logs/
+04-conversation-data-pipeline/data/raw/
+04-conversation-data-pipeline/data/curated/
